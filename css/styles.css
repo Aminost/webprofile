@@ -348,11 +348,12 @@ a:hover {
     position: absolute;
     top: 30%;
     left:40%;
-}
-.cover_pic{
     max-width: 100%;
     max-height: 100%;
     margin: auto;
+}
+.cover_pic{
+
 }
 
 .banner-container.cover_pic {
