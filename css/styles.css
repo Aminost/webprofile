@@ -341,19 +341,23 @@ a:hover {
 
 .profile_pic{
     border: 3px solid black;
-    width: 300px;
+    width: 20%;
     border-radius: 50%;
     display: block;
     background-size: 50% ;
     position: absolute;
     top: 30%;
     left:40%;
+    object-fit: cover;
+
+}
+
+
+
+.cover_pic{
     max-width: 100%;
     max-height: 100%;
     margin: auto;
-}
-.cover_pic{
-
 }
 
 .banner-container.cover_pic {
