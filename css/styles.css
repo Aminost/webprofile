@@ -354,6 +354,9 @@ a:hover {
     max-height: 100%;
     margin: auto;
 }
+.col-md-2 skilltitle{
+    white-space: nowrap;
+}
 .banner-container.cover_pic {
     width: 100%;
 }
